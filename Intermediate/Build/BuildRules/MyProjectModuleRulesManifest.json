@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Tetris_Le\\MyProject\\Source\\MyProject\\MyProject.Build.cs",
+		"D:\\Tetris_Le\\MyProject\\Source\\MyProject.Target.cs",
+		"D:\\Tetris_Le\\MyProject\\Source\\MyProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}

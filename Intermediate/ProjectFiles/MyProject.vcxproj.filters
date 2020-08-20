@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MyProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{6D560A7A-1F51-4FDC-8791-7E4C068E5FAE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MyProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D9072BBC-8405-4D0F-94A1-B43C9F621B4F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MyProject">
+      <UniqueIdentifier>{DE361210-E6FF-42FC-8D2F-A99E80E7948B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyProject\MyProject.Build.cs">
+      <Filter>Source\MyProject</Filter>
+    </None>
+    <ClInclude Include="..\..\Source\MyProject\MyProject.h">
+      <Filter>Source\MyProject</Filter>
+    </ClInclude>
+    <Filter Include="Source\MyProject\Basics">
+      <UniqueIdentifier>{30272C30-E88B-472C-9D32-3EF4A320B4E1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MyProject\Basics\MyTetrisGameInstance_Rename.cpp">
+      <Filter>Source\MyProject\Basics</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject\Basics\MyTetrisGameInstance_Rename.h">
+      <Filter>Source\MyProject\Basics</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyProject\Basics\MyTetrisGameMode.cpp">
+      <Filter>Source\MyProject\Basics</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject\Basics\MyTetrisGameMode.h">
+      <Filter>Source\MyProject\Basics</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyProject\Basics\MyTetrisHUD.cpp">
+      <Filter>Source\MyProject\Basics</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject\Basics\MyTetrisHUD.h">
+      <Filter>Source\MyProject\Basics</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyProject\Basics\MyTetrisPawn.cpp">
+      <Filter>Source\MyProject\Basics</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject\Basics\MyTetrisPawn.h">
+      <Filter>Source\MyProject\Basics</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyProject\Basics\MyTetrisPlayerController.cpp">
+      <Filter>Source\MyProject\Basics</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject\Basics\MyTetrisPlayerController.h">
+      <Filter>Source\MyProject\Basics</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyTeTrisEnums.h" />
+  </ItemGroup>
+</Project>

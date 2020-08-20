@@ -1,0 +1,3 @@
+D:\Tetris_Le\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+D:\Tetris_Le\MyProject\Source\MyProject\Basics\MyTetrisPawn.h
+D:\Tetris_Le\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\MyTetrisPawn.generated.h
